@@ -139,7 +139,7 @@ nav a:focus {
 }
 /* Default Skin */
 .banner_center {
-	width: 50%;
+	width: 40%;
 	position: absolute;
 	top: 40%;
 	left: 25%;
@@ -949,7 +949,7 @@ padding-bottom: 2em;
 				font-size: 1.5em;
 			}
 			.banner-wrap {
-				padding-top: 16em;
+				padding-top: 8em;
 			}
 			.services-section {
 				padding: 2em 0;
