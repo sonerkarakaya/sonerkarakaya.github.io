@@ -138,15 +138,8 @@ nav a:focus {
 	display:block;
 }
 /* Default Skin */
-.banner_center {
-	width: 50%;
-	position: absolute;
-	top: 40%;
-	left: 25%;
-	text-align: center;
-	background-color: #919494;
 
-}
+
 .banner_center h1 {
 	color: #eee;
 	font-family: serif;
