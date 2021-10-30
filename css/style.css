@@ -139,7 +139,7 @@ nav a:focus {
 }
 /* Default Skin */
 .banner_center {
-	width: 40%;
+	width: 50%;
 	position: absolute;
 	top: 40%;
 	left: 25%;
@@ -179,6 +179,7 @@ ul.wmuSliderPagination {
 	float: left;
 	margin: 0 8px 0 0;
 	list-style-type: none;
+
 }
 
 .bannertop_box{
@@ -949,7 +950,7 @@ padding-bottom: 2em;
 				font-size: 1.5em;
 			}
 			.banner-wrap {
-				padding-top: 8em;
+				padding-top: 16em;
 			}
 			.services-section {
 				padding: 2em 0;
