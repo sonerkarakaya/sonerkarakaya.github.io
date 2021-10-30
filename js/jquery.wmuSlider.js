@@ -59,7 +59,7 @@
                         opacity: 0
                     });
                     slide.css('position', 'relative');
-                    slide.animate({ opacity:1 }, options.animationDuration, function() {
+                    slide.animate({ opacity:0 }, options.animationDuration, function() {
                         isAnimating = false;
                     });
                 } else if (options.animation == 'slide') {
