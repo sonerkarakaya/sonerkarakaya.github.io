@@ -144,25 +144,25 @@ nav a:focus {
 	top: 40%;
 	left: 25%;
 	text-align: center;
-	background-color: #d6d8d8;
+	background-color: #919494;
 
 }
 .banner_center h1 {
 	color: #eee;
 	font-family: 'Arvo', serif;
-	text-transform: uppercase;
-	font-size: 1.5em;
+	text-transform: capitalize;
+	font-size: 2.4em;
 }
 .banner_center h2 {
 	color: #eee;
 	font-family: 'Arvo', serif;
-	text-transform: uppercase;
-	font-size: 1.5em;
+	text-transform: capitalize;
+	font-size: 2.4em;
 	padding:7px 0;
 }
 .banner_center h2 span
 {
-	color: #ef664d;
+	color: #fdfdfd;
 	font-weight: 900;
 }
 .wmuSliderPagination {
@@ -414,16 +414,6 @@ ul.wmuSliderPagination {
 /* Default Skin */
 .wmuGallery .wmuGalleryImage {
 	margin-bottom: 10px;
-}
-.wmuSliderPrev, .wmuSliderNext {
-	position: absolute;
-	width:40px;
-	height:40px;
-	text-indent: -9999px;
-	background: url(../images/img-sprite.png)no-repeat 0px 0px ;
-	top:35%;
-	z-index: 2;
-	cursor: pointer;
 
 }
 .portfolio-section-top-row-right-grid {
