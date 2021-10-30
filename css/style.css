@@ -180,15 +180,6 @@ ul.wmuSliderPagination {
 	margin: 0 8px 0 0;
 	list-style-type: none;
 }
-.wmuSliderPagination a {
-	text-indent: -9999px;
-	visibility: visible;
-	height: 15px;
-	width: 15px;
-	display: inline-block;
-	border: 3px solid #CCCECE;
-	-webkit-border-radius: 50%;
-}
 
 .bannertop_box{
 	width:23%;
