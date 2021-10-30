@@ -189,10 +189,6 @@ ul.wmuSliderPagination {
 	border: 3px solid #CCCECE;
 	-webkit-border-radius: 50%;
 }
-.wmuSliderPagination a.wmuActive {
-	background: #ef664d;
-	border-color: #ef664d;
-}
 
 .bannertop_box{
 	width:23%;
