@@ -144,20 +144,20 @@ nav a:focus {
 	top: 40%;
 	left: 25%;
 	text-align: center;
-	background-color: #6f7575;
+	background-color: #d6d8d8;
 
 }
 .banner_center h1 {
 	color: #eee;
 	font-family: 'Arvo', serif;
 	text-transform: uppercase;
-	font-size: 2.4em;
+	font-size: 1.5em;
 }
 .banner_center h2 {
 	color: #eee;
 	font-family: 'Arvo', serif;
 	text-transform: uppercase;
-	font-size: 2.4em;
+	font-size: 1.5em;
 	padding:7px 0;
 }
 .banner_center h2 span
@@ -424,16 +424,7 @@ ul.wmuSliderPagination {
 	top:35%;
 	z-index: 2;
 	cursor: pointer;
-}
-.wmuSliderNext {
-	background-position:-360px 0px;
-	right: 0em;
-	top: 210px;
-}
-.wmuSliderPrev {
-	background-position:-320px 0px;
-	left: 0em;
-	top: 210px;
+
 }
 .portfolio-section-top-row-right-grid {
 	padding-right: 0;
